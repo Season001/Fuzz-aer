@@ -1,6 +1,6 @@
 # Fuzz-aer
 
-(./images/logo.jpg)
+![image](https://github.com/Season001/Fuzz-aer/blob/main/images/logo.jpg)
 
 ## 简介
 
@@ -33,21 +33,21 @@ Fuzz-aer 是一款基于 Burp Suite 扩展的智能模糊测试辅助工具。�
 
 安装成功后，Burp Suite 中会出现一个新的 `Fuzz-aer` 选项卡。
 
-(./images/主界面.png)
+![image](https://github.com/Season001/Fuzz-aer/blob/main/images/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
 
 ### 2. AI 配置
 
 点击左侧导航栏的 `AI 配置`。
 
-(./images/AI通用配置.png)
+![image](https://github.com/Season001/Fuzz-aer/blob/main/images/AI%E9%80%9A%E7%94%A8%E9%85%8D%E7%BD%AE.png)
 
 *    `AI 配置` 页面中 `普通提示词` 选项卡的内容，包括提示词的说明和编辑区域。
 
-(./images/AI-JS 分析配置.png)
+![image](https://github.com/Season001/Fuzz-aer/blob/main/images/AI-JS%20%E5%88%86%E6%9E%90%E9%85%8D%E7%BD%AE.png)
 
 *    `AI 配置` 页面中的 `JS 分析配置` 选项卡下的 `JS 分析提示词` 子页面，包括提示词的说明和编辑区域。
 
-(./images/AI配置-js分析.png)
+![image](https://github.com/Season001/Fuzz-aer/blob/main/images/AI%E9%85%8D%E7%BD%AE-js%E5%88%86%E6%9E%90.png)
 
 *   `AI 配置` 页面中 `JS 分析配置` 选项卡下的 `JS 分析测试` 子页面，包括 `JS 分析` 输入框、`结果将显示在这里` 输出框和 `执行分析` 按钮。
 
@@ -55,11 +55,11 @@ Fuzz-aer 是一款基于 Burp Suite 扩展的智能模糊测试辅助工具。�
 
 点击左侧导航栏的 `字典管理`。
 
-(./images/基础字典.png)
+![image](https://github.com/Season001/Fuzz-aer/blob/main/images/%E5%9F%BA%E7%A1%80%E5%AD%97%E5%85%B8.png)
 
 *   显示 `字典管理` 页面中 `基础字典` 选项卡的内容，包括 `类型` 选择区域和 `字典内容` 编辑区域。
 
-(./images/框架指纹.png)
+![image](https://github.com/Season001/Fuzz-aer/blob/main/images/%E6%A1%86%E6%9E%B6%E6%8C%87%E7%BA%B9.png)
 
 *  `字典管理` 页面中 `框架指纹` 选项卡的内容，包括 `字典内容` 编辑区域。
 
